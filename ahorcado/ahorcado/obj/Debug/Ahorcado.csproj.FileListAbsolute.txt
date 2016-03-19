@@ -1,0 +1,36 @@
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Juego.resources
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Karrillo\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\obj\Debug\Ahorcado.Juego.resources
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Karrillo\Desktop\ahorcadoRESPALDO\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.Juego.resources
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.Juego.resources
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Karrillo\Dropbox\Univerdad Catolica\Tareas\I Cuatri\introduccion a la programacion\Segundo Proyecto\Proyecto2\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
